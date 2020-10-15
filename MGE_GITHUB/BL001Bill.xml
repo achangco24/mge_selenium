@@ -5,5 +5,5 @@
   	 <classes>
       <class name="dpu_runners.BL001Bill"/>
     </classes>  
-  </test> <!-- CCsB sample 150 -->
+  </test> <!-- CCsB sample adrianos -->
 </suite> <!-- Suite -->
